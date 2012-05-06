@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenCap", "ScreenCap\ScreenCap.vcproj", "{C73B2019-F8AA-4CA1-A6DF-02DF1CDE6A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73B2019-F8AA-4CA1-A6DF-02DF1CDE6A37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C73B2019-F8AA-4CA1-A6DF-02DF1CDE6A37}.Debug|Win32.Build.0 = Debug|Win32
+		{C73B2019-F8AA-4CA1-A6DF-02DF1CDE6A37}.Release|Win32.ActiveCfg = Release|Win32
+		{C73B2019-F8AA-4CA1-A6DF-02DF1CDE6A37}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
